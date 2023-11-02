@@ -1,0 +1,126 @@
+html {
+    width: 100%;
+    height: 100%;
+    background-color: #2E3033;
+    color: #B8BFC6;
+    overflow: hidden;
+    font-family: 'Mono', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+
+
+
+/*@font-face {*/
+/*    font-family: 'Mono';*/
+/*    src: url("fonts/Mono/Mono-Bold.ttf") format('truetype');*/
+/*    font-weight: 500;*/
+/*    font-style: normal;*/
+/*}*/
+/*@font-face {*/
+/*    font-family: 'Mono';*/
+/*    src: url("fonts/Mono/Mono-Bold5.ttf") format('truetype');*/
+/*    font-weight: 700;*/
+/*    font-style: normal;*/
+/*}*/
+/*@font-face {*/
+/*    font-family: 'Mono';*/
+/*    src: url("fonts/Mono/Mono-Bold20.ttf") format('truetype');*/
+/*    font-weight: 900;*/
+/*    font-style: normal;*/
+/*}*/
+
+
+/*@font-face {*/
+/*    font-family: 'Mono';*/
+/*    src: url("fonts/Mono/Mono-BoldItalic.ttf") format('truetype');*/
+/*    font-weight: 500;*/
+/*    font-style: italic;*/
+/*}*/
+/*@font-face {*/
+/*    font-family: 'Mono';*/
+/*    src: url("fonts/Mono/Mono-BoldItalic5.ttf") format('truetype');*/
+/*    font-weight: 700;*/
+/*    font-style: italic;*/
+/*}*/
+/*@font-face {*/
+/*    font-family: 'Mono';*/
+/*    src: url("fonts/Mono/Mono-BoldItalic20.ttf") format('truetype');*/
+/*    font-weight: 900;*/
+/*    font-style: italic;*/
+/*}*/
+/*@font-face {*/
+/*    font-family: 'Mono';*/
+/*    src: url("fonts/Mono/Mono-Italic.ttf") format('truetype');*/
+/*    font-weight: normal;*/
+/*    font-style: italic;*/
+/*}*/
+/*@font-face {*/
+/*    font-family: 'Mono';*/
+/*    src: url("fonts/Mono/Mono-Italic5.ttf") format('truetype');*/
+/*}*/
+/*@font-face {*/
+/*    font-family: 'Mono';*/
+/*    src: url("fonts/Mono/Mono-Italic20.ttf") format('truetype');*/
+/*}*/
+/*@font-face {*/
+/*    font-family: 'Mono';*/
+/*    src: url("fonts/Mono/Mono-Regular.ttf") format('truetype');*/
+/*}*/
+/*@font-face {*/
+/*    font-family: 'Mono';*/
+/*    src: url("fonts/Mono/Mono-Regular5.ttf") format('truetype');*/
+/*}*/
+/*@font-face {*/
+/*    font-family: 'Mono';*/
+/*    src: url("fonts/Mono/Mono-Regular20.ttf") format('truetype');*/
+/*}*/
+/*@font-face {*/
+/*    font-family: 'Mono';*/
+/*    src: url("fonts/Mono/Mono-Semibold.ttf") format('truetype');*/
+/*}*/
+/*@font-face {*/
+/*    font-family: 'Mono';*/
+/*    src: url("fonts/Mono/Mono-Semibold5.ttf") format('truetype');*/
+/*}*/
+/*@font-face {*/
+/*    font-family: 'Mono';*/
+/*    src: url("fonts/Mono/Mono-Semibold20.ttf") format('truetype');*/
+/*}*/
+/*@font-face {*/
+/*    font-family: 'Mono';*/
+/*    src: url("fonts/Mono/Mono-SemiboldItalic.ttf") format('truetype');*/
+/*}*/
+/*@font-face {*/
+/*    font-family: 'Mono';*/
+/*    src: url("fonts/Mono/Mono-SemiboldItalic5.ttf") format('truetype');*/
+/*}*/
+/*@font-face {*/
+/*    font-family: 'Mono';*/
+/*    src: url("fonts/Mono/Mono-SemiboldItalic20.ttf") format('truetype');*/
+/*}*/
+@font-face {
+    font-family: 'Mono';
+    src: url("fonts/Mono/Mono-Text.ttf") format('truetype');
+}
+/*@font-face {*/
+/*    font-family: 'Mono';*/
+/*    src: url("fonts/Mono/Mono-Text5.ttf") format('truetype');*/
+/*}*/
+/*@font-face {*/
+/*    font-family: 'Mono';*/
+/*    src: url("fonts/Mono/Mono-Text20.ttf") format('truetype');*/
+/*}*/
+/*@font-face {*/
+/*    font-family: 'Mono';*/
+/*    src: url("fonts/Mono/Mono-TextItalic.ttf") format('truetype');*/
+/*}*/
+/*@font-face {*/
+/*    font-family: 'Mono';*/
+/*    src: url("fonts/Mono/Mono-TextItalic5.ttf") format('truetype');*/
+/*}*/
+/*@font-face {*/
+/*    font-family: 'Mono';*/
+/*    src: url("fonts/Mono/Mono-TextItalic20.ttf") format('truetype');*/
+/*}*/
